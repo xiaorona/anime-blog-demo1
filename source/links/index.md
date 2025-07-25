@@ -1,5 +1,5 @@
 ---
-title: Here’s your list of friend links!
-date: 2020-05-13 14:16:07
+title: Friend Links
+date: 2025-05-01 12:00:00
 template: links
 ---
