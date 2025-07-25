@@ -94,10 +94,13 @@ home_banner:
     enable: true
     style: default
     links:
-      github:  https://github.com/EvanNotFound/hexo-theme-redefine
+      bilibili:  https://space.bilibili.com/9982886
+      github:  https://github.com/xiaorona
+      twitter:  https://x.com/Xiaorona_
+      telegram:  https://t.me/ContactMe_2bot
       instagram:
       zhihu:
-      email:
+      email:  xiaorona@126.com
     qrs:
       weixin:
 
@@ -127,7 +130,7 @@ navbar:
       path: /about
       icon: fa-solid fa-circle-info
   search:
-    enable: true
+    enable: false
     preload: true
 
 home:
