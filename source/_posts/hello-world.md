@@ -1,7 +1,12 @@
 ---
 title: Hello World
+date: 2024-03-21 12:00:00
 banner: "this is test page"
-cover: https://images.bauerhosting.com/empire/2024/05/01-Princess-Mononoke.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80
+cover: https://t.alcy.cc/moez
+tags:
+  - 示例
+categories:
+  - 默认
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
