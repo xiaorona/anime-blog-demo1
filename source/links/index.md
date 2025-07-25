@@ -4,7 +4,7 @@ date: 2025-05-01 12:00:00
 template: links
 ---
 
-``` demo
+```
 链接：https://blog.acg.rest
 头像：https://blog.acg.rest/images/avatar.webp
 名称：xrona's blog
