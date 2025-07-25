@@ -1,6 +1,6 @@
 info:
-  title: xrona
-  subtitle: Blog
+  title: Xiaorona's Blog
+  subtitle: 🥝
   author: xiaorona
   url: https://blog.acg.rest
 
@@ -66,7 +66,7 @@ home_banner:
   image: 
     light: /images/main_bg_ligth.jpg
     dark: /images/main_bg.jpg
-  title: xrona's blog
+  title: Xiaorona's blog
   subtitle:
     text: ['回首向来萧瑟处，也无风雨也无晴']
     hitokoto:
