@@ -7,5 +7,5 @@ date: 2025-03-21 11:45:14
 在玩的游戏：BA
 
 ## 联系我:<br>
-[Email](mailto: xiaorona@126.com)<br>
-[Telegram](https://t.me/ContactMe_2bot)
+xiaorona@126.com<br>
+https://t.me/ContactMe_2bot
