@@ -1,8 +1,8 @@
 info:
-  title: Jack's Blog
-  subtitle: Your personal blog journey.
-  author: Jack
-  url: https://your-domain.com
+  title: 星沉
+  subtitle: Blog
+  author: xiaorona
+  url: https://blog.acg.rest
 
 defaults:
   favicon: /images/favicon.svg
@@ -66,9 +66,9 @@ home_banner:
   image: 
     light: /images/main_bg_ligth.jpg
     dark: /images/main_bg.jpg
-  title: Jack's Blog
+  title: 星沉的博客
   subtitle:
-    text: ['Welcome to my blog']
+    text: ['回首向来萧瑟处，也无风雨也无晴']
     hitokoto:
       enable: false
       show_author: true
@@ -117,9 +117,6 @@ navbar:
     Archives: 
       path: /archives 
       icon: fa-regular fa-archive
-    Github: 
-      path: https://github.com/EvanNotFound
-      icon: fa-brands fa-github
     Album:
       icon: fa-solid fa-image
       path: /masonry/
@@ -130,7 +127,7 @@ navbar:
       path: /about
       icon: fa-solid fa-circle-info
   search:
-    enable: false
+    enable: true
     preload: true
 
 home:
