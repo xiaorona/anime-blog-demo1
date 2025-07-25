@@ -212,8 +212,8 @@ effects:
   cursoreffects: true
 
 comment:
-  enable: false
-  system: waline
+  enable: true
+  system: giscus
   config:
     waline:
       serverUrl: https://ifpx3kuv.api.lncldglobal.com
@@ -233,17 +233,17 @@ comment:
       server_url:
       region:
     giscus:
-      repo:xiaorona/hexo-blog-comments
-      repo_id:R_kgDOPStffg
-      category:Announcements
-      category_id:DIC_kwDOPStffs4CtaJw
-      mapping:pathname
-      strict:0
-      reactions_enabled:1
-      emit_metadata:0
-      lang:zh-CN
-      input_position:bottom
-      loading:lazy
+      repo: xiaorona/hexo-blog-comments
+      repo_id: R_kgDOPStffg
+      category: Announcements
+      category_id: DIC_kwDOPStffs4CtaJw
+      mapping: pathname
+      strict: 0
+      reactions_enabled: 1
+      emit_metadata: 0
+      lang: zh-CN
+      input_position: bottom
+      loading: lazy
 
 footer:
   runtime: true
