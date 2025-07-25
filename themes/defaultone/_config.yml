@@ -233,15 +233,15 @@ comment:
       server_url:
       region:
     giscus:
-      repo:
-      repo_id:
-      category:
-      category_id:
+      repo: xiaorona/hexo-blog-comments
+      repo_id: R_kgDOPStffg
+      category: Announcements
+      category_id: DIC_kwDOPStffs4CtaJw
       mapping: pathname
       strict: 0
       reactions_enabled: 1
       emit_metadata: 0
-      lang: en
+      lang: zh-CN
       input_position: bottom
       loading: lazy
 
