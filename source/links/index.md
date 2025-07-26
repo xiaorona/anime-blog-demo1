@@ -11,4 +11,4 @@ template: links
 简介：回首向来萧瑟处，也无风雨也无晴
 ```
 
-发送邮箱：xiaorona@126.com
+申请发送至邮箱：x@zako.im
