@@ -15,6 +15,6 @@ template: links
 
 ### 发送申请
 
-``` bash
+``` links
 $ hexo server
 ```
