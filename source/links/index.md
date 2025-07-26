@@ -16,5 +16,5 @@ template: links
 ### 发送申请
 
 ``` links
-$ hexo server
+$ hexo
 ```
