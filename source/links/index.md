@@ -4,7 +4,7 @@ date: 2025-05-01 12:00:00
 template: links
 ---
 
-```
+``` links
 链接：https://blog.acg.rest
 头像：https://blog.acg.rest/images/avatar.webp
 名称：Xiaorona's blog
@@ -12,9 +12,3 @@ template: links
 ```
 
 申请发送至邮箱：x@zako.im
-
-### 发送申请
-
-``` links
-$ hexo
-```
