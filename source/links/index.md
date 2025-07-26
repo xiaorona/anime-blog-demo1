@@ -12,3 +12,9 @@ template: links
 ```
 
 申请发送至邮箱：x@zako.im
+
+### 发送申请
+
+``` bash
+$ hexo server
+```
